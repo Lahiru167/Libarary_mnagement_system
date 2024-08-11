@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.librarysystem.library_management_system.Library_Management_Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.229 s <<< FAILURE! -- in com.librarysystem.library_management_system.Library_Management_Test
+com.librarysystem.library_management_system.Library_Management_Test.testValidateLogin_EmptyPassword -- Time elapsed: 0.205 s <<< ERROR!
+java.lang.UnsupportedOperationException: Not supported yet.
+	at com.librarysystem.library_management_system.Library_Management_Test.ValidateLogin(Library_Management_Test.java:57)
+	at com.librarysystem.library_management_system.Library_Management_Test.testValidateLogin_EmptyPassword(Library_Management_Test.java:52)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
